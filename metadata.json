@@ -1,0 +1,7 @@
+{
+  "name": "Smart t",
+  "description": "An AI-powered, farmer-friendly platform to identify the best intercropping combinations based on soil type, season, and local conditions. It provides personalized crop pairing suggestions, profit projections, and step-by-step intercropping plans.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
